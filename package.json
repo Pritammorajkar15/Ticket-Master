@@ -13,7 +13,7 @@
     "lodash": "^4.17.15",
     "mongoose": "^5.7.12",
     "token": "^0.1.0",
-    "validator": "^12.1.0",
+    "validator": "^13.7.0",
     "web": "0.0.2"
   },
   "devDependencies": {},
